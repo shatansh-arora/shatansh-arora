@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://datahubusa.com/wp-content/uploads/2022/12/Data-Analytics-1.gif">
 
 
-- 🌱 I’m currently learning **SQL, Power BI**
+- 🌱 I’m actively exploring SQL and Power BI through hands-on projects.**
 
 - 📝 I continuously work on new projects and assignments to improve my skills in Excel, SQL, and Power BI.
 
