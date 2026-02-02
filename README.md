@@ -1,12 +1,12 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/002/280/240/non_2x/data-analysis-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Shatansh Arora</h1>
-<h3 align="center">A passionate and curious data analytics and I am from India</h3>
+<h3 align="center">A data analytics enthusiast with a strong interest in turning data into insights, based in India.</h3>
 <img align="right" alt="Coding" width="400" src="https://datahubusa.com/wp-content/uploads/2022/12/Data-Analytics-1.gif">
 
 
 - 🌱 I’m currently learning **SQL, Power BI**
 
-- 📝 I regularly write articles on [Business Analytics, Data Analytics , Business Intelligence , Artificial Intelligence](Business Analytics, Data Analytics , Business Intelligence , Artificial Intelligence)
+- 📝 I continuously work on new projects and assignments to improve my skills in Excel, SQL, and Power BI.
 
 - 💬 Ask me about **Tech**
 
